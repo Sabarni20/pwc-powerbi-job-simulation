@@ -1,0 +1,678 @@
+EmployeeID,Gender,Department,JobLevelNumber,JobLevel,AgeGroup,Region,Nationality,FY20_PerformanceRating,FY20_Promoted,FY20_NewHire,FY20_Turnover,YearsInLevel,FY21_PerformanceRating,FY21_Promoted,FY21_NewHire,FY21_Turnover
+EMP1001,Male,IT,1,Entry,25-34,Switzerland,Other,3,No,No,Yes,5.1,5,No,No,No
+EMP1002,Female,HR,1,Entry,35-44,Americas,Swiss,3,No,No,Yes,3.6,2,No,No,No
+EMP1003,Female,Marketing,1,Entry,16-24,Americas,British,3,Yes,No,No,2.0,3,No,No,No
+EMP1004,Male,Marketing,1,Entry,25-34,EMEA,Indian,4,No,No,No,4.9,3,No,No,No
+EMP1005,Female,Sales,1,Entry,16-24,EMEA,American,4,No,No,No,4.1,3,No,No,No
+EMP1006,Female,Marketing,1,Entry,16-24,EMEA,German,4,Yes,Yes,No,1.8,3,No,No,No
+EMP1007,Male,Executive,1,Entry,25-34,Switzerland,German,5,No,Yes,Yes,1.8,3,No,No,No
+EMP1008,Female,Legal,1,Entry,55+,EMEA,American,3,No,No,No,5.3,4,No,No,No
+EMP1009,Female,Executive,1,Entry,16-24,Switzerland,Swiss,2,No,No,No,3.0,5,No,No,No
+EMP1010,Female,Legal,1,Entry,25-34,Americas,German,3,No,No,No,4.7,5,No,No,No
+EMP1011,Male,Executive,1,Entry,55+,Americas,British,3,No,No,No,5.6,4,No,No,No
+EMP1012,Female,Marketing,1,Entry,25-34,Switzerland,American,2,No,No,Yes,3.7,5,No,Yes,No
+EMP1013,Male,Finance,1,Entry,25-34,Switzerland,Other,2,No,Yes,Yes,3.9,4,No,No,No
+EMP1014,Male,Sales,1,Entry,35-44,Americas,German,4,No,Yes,No,4.0,4,No,No,No
+EMP1015,Female,Operations,1,Entry,35-44,Americas,French,4,No,No,No,3.5,2,No,No,No
+EMP1016,Male,IT,1,Entry,25-34,Switzerland,German,3,No,No,No,4.1,4,No,No,No
+EMP1017,Male,IT,1,Entry,25-34,EMEA,Swiss,4,No,No,No,3.4,4,No,No,No
+EMP1018,Female,Operations,1,Entry,35-44,Americas,Swiss,4,No,No,No,2.8,2,No,No,No
+EMP1019,Female,Marketing,1,Entry,35-44,Americas,French,3,No,No,No,3.8,5,No,No,Yes
+EMP1020,Male,Executive,1,Entry,35-44,EMEA,French,4,No,No,No,1.2,3,No,No,No
+EMP1021,Male,Finance,1,Entry,25-34,EMEA,Swiss,3,No,No,No,3.7,2,No,No,Yes
+EMP1022,Female,Legal,1,Entry,25-34,Americas,French,5,Yes,No,Yes,3.1,5,No,Yes,No
+EMP1023,Female,Marketing,1,Entry,45-54,EMEA,French,4,Yes,No,No,4.9,5,No,No,No
+EMP1024,Female,Operations,1,Entry,16-24,EMEA,Swiss,3,No,No,No,2.8,4,No,No,No
+EMP1025,Female,IT,1,Entry,25-34,EMEA,Swiss,4,No,No,No,0.7,4,No,No,No
+EMP1026,Female,HR,1,Entry,45-54,EMEA,Indian,3,No,No,No,2.2,2,No,No,No
+EMP1027,Female,Marketing,1,Entry,35-44,EMEA,French,3,No,Yes,No,5.8,3,No,Yes,No
+EMP1028,Female,Executive,1,Entry,35-44,Americas,German,5,No,Yes,No,1.1,4,No,No,No
+EMP1029,Female,Operations,1,Entry,45-54,Asia Pacific,Swiss,4,No,No,No,1.5,5,Yes,No,No
+EMP1030,Female,Executive,1,Entry,45-54,Switzerland,Indian,2,No,No,No,2.2,4,No,No,No
+EMP1031,Female,IT,1,Entry,55+,Switzerland,French,5,No,No,No,2.2,4,Yes,Yes,Yes
+EMP1032,Female,Operations,1,Entry,35-44,Switzerland,Indian,3,Yes,No,No,4.4,4,No,No,No
+EMP1033,Male,HR,1,Entry,25-34,EMEA,German,3,Yes,No,No,4.6,2,No,No,No
+EMP1034,Female,Operations,1,Entry,35-44,Switzerland,Swiss,2,No,No,No,5.5,1,No,No,No
+EMP1035,Male,Legal,1,Entry,45-54,EMEA,Swiss,5,Yes,No,No,2.2,5,No,Yes,No
+EMP1036,Female,Executive,1,Entry,45-54,Switzerland,German,2,No,No,No,1.0,1,No,Yes,No
+EMP1037,Female,Sales,1,Entry,35-44,EMEA,British,3,No,No,No,1.8,3,No,No,No
+EMP1038,Male,Finance,1,Entry,35-44,Switzerland,Chinese,4,No,No,No,3.4,3,No,No,No
+EMP1039,Male,Legal,1,Entry,35-44,Switzerland,Swiss,3,No,No,No,0.6,3,No,No,No
+EMP1040,Male,Legal,1,Entry,35-44,Switzerland,Chinese,2,No,No,No,2.3,2,No,No,No
+EMP1041,Female,IT,1,Entry,25-34,Asia Pacific,Swiss,3,No,No,No,3.3,3,No,No,No
+EMP1042,Male,Finance,1,Entry,45-54,Americas,French,5,No,No,No,1.8,2,Yes,Yes,No
+EMP1043,Female,Sales,1,Entry,55+,Americas,American,4,No,Yes,No,1.0,3,No,No,Yes
+EMP1044,Male,Finance,1,Entry,35-44,Asia Pacific,German,5,No,No,No,1.9,4,No,Yes,No
+EMP1045,Female,Executive,1,Entry,25-34,Americas,British,4,No,Yes,No,3.1,3,No,Yes,Yes
+EMP1046,Female,Executive,1,Entry,25-34,Asia Pacific,Swiss,3,Yes,No,No,3.2,3,No,No,No
+EMP1047,Male,Marketing,1,Entry,55+,Asia Pacific,Swiss,3,Yes,No,No,3.7,4,Yes,No,No
+EMP1048,Male,Sales,1,Entry,55+,Switzerland,American,4,No,Yes,No,3.5,3,No,No,Yes
+EMP1049,Female,Sales,1,Entry,45-54,Switzerland,German,3,No,No,No,4.1,4,No,No,No
+EMP1050,Male,Sales,1,Entry,45-54,Switzerland,American,2,Yes,No,No,1.2,3,No,No,No
+EMP1051,Female,Executive,1,Entry,55+,EMEA,British,5,No,No,No,2.3,4,No,No,No
+EMP1052,Female,Executive,1,Entry,25-34,EMEA,Swiss,4,No,No,No,3.4,1,No,No,No
+EMP1053,Female,Finance,1,Entry,16-24,Americas,Swiss,4,No,No,No,5.5,5,No,No,No
+EMP1054,Male,Executive,1,Entry,35-44,Americas,Swiss,5,No,No,No,4.7,3,No,No,No
+EMP1055,Female,HR,1,Entry,35-44,EMEA,Swiss,3,No,No,No,1.3,5,No,No,No
+EMP1056,Male,Executive,1,Entry,25-34,EMEA,Swiss,1,No,Yes,No,2.6,4,No,No,No
+EMP1057,Male,IT,1,Entry,55+,Switzerland,Swiss,4,Yes,Yes,No,2.0,4,No,No,No
+EMP1058,Female,Marketing,1,Entry,55+,Switzerland,Swiss,3,No,No,No,3.5,4,Yes,No,No
+EMP1059,Female,Executive,1,Entry,25-34,Switzerland,German,4,No,Yes,No,2.7,3,No,No,No
+EMP1060,Male,Executive,1,Entry,25-34,EMEA,British,4,No,No,No,0.7,4,Yes,No,Yes
+EMP1061,Male,HR,1,Entry,25-34,Switzerland,British,5,No,No,No,1.5,4,No,No,No
+EMP1062,Male,Legal,1,Entry,25-34,Switzerland,French,4,Yes,Yes,No,4.1,4,No,Yes,No
+EMP1063,Male,HR,1,Entry,35-44,Asia Pacific,German,4,No,No,No,5.3,4,No,No,No
+EMP1064,Female,HR,1,Entry,45-54,EMEA,Other,3,No,No,No,3.8,4,Yes,No,No
+EMP1065,Male,Sales,1,Entry,35-44,Switzerland,American,5,No,No,No,1.9,3,Yes,No,No
+EMP1066,Female,Executive,1,Entry,35-44,Switzerland,Swiss,5,Yes,No,No,4.4,3,No,No,No
+EMP1067,Female,HR,1,Entry,35-44,Switzerland,French,3,No,No,No,5.8,3,No,No,Yes
+EMP1068,Female,HR,1,Entry,35-44,Americas,British,5,No,No,No,2.0,3,No,No,No
+EMP1069,Male,Marketing,1,Entry,35-44,EMEA,German,4,No,No,No,5.0,2,No,No,No
+EMP1070,Male,IT,1,Entry,35-44,EMEA,French,3,No,Yes,No,0.6,4,No,No,No
+EMP1071,Male,Operations,1,Entry,25-34,Americas,Swiss,5,No,No,No,2.5,3,Yes,Yes,No
+EMP1072,Male,Operations,1,Entry,25-34,EMEA,Swiss,5,No,No,No,3.1,3,No,No,No
+EMP1073,Male,Finance,1,Entry,35-44,Switzerland,French,3,No,No,No,1.0,5,No,No,No
+EMP1074,Male,Finance,1,Entry,55+,Americas,British,3,No,No,No,3.5,4,No,No,No
+EMP1075,Male,Sales,1,Entry,35-44,EMEA,American,4,No,Yes,No,1.5,2,No,No,No
+EMP1076,Female,HR,1,Entry,25-34,Switzerland,German,4,No,No,No,3.8,4,No,No,No
+EMP1077,Male,HR,1,Entry,35-44,Switzerland,Swiss,5,No,Yes,No,0.7,5,Yes,No,No
+EMP1078,Female,Legal,1,Entry,16-24,EMEA,Swiss,3,No,No,No,2.8,5,No,No,No
+EMP1079,Male,IT,1,Entry,55+,EMEA,French,4,No,Yes,No,5.6,5,No,No,No
+EMP1080,Female,IT,1,Entry,35-44,Switzerland,Swiss,4,Yes,No,No,1.5,2,Yes,No,No
+EMP1081,Male,Sales,1,Entry,16-24,Switzerland,German,3,No,No,No,1.4,5,No,No,No
+EMP1082,Male,Operations,1,Entry,25-34,Switzerland,Other,4,Yes,No,No,1.6,3,No,No,No
+EMP1083,Male,Executive,1,Entry,55+,Switzerland,French,5,No,No,No,4.5,5,No,Yes,No
+EMP1084,Female,Finance,1,Entry,35-44,Switzerland,Swiss,5,No,No,No,1.3,5,No,No,No
+EMP1085,Male,IT,1,Entry,25-34,Switzerland,Indian,3,No,No,No,5.8,2,Yes,No,No
+EMP1086,Female,IT,1,Entry,16-24,Switzerland,French,3,No,Yes,No,5.1,4,No,No,No
+EMP1087,Male,Sales,1,Entry,16-24,Switzerland,Swiss,4,No,Yes,No,1.0,5,No,No,No
+EMP1088,Female,Finance,1,Entry,35-44,Americas,British,5,No,Yes,No,5.4,5,Yes,Yes,No
+EMP1089,Male,IT,1,Entry,25-34,EMEA,German,4,Yes,No,No,2.1,4,No,No,No
+EMP1090,Female,Operations,1,Entry,25-34,Switzerland,Swiss,4,No,Yes,No,2.7,4,No,No,No
+EMP1091,Female,Finance,1,Entry,35-44,Americas,Chinese,3,No,No,No,3.1,2,No,No,No
+EMP1092,Female,HR,1,Entry,35-44,Switzerland,Other,5,No,No,Yes,1.7,2,No,No,Yes
+EMP1093,Male,Sales,1,Entry,35-44,Americas,German,5,No,No,Yes,3.6,5,No,No,No
+EMP1094,Male,HR,1,Entry,25-34,Switzerland,Indian,3,No,No,Yes,5.0,3,Yes,No,No
+EMP1095,Male,IT,1,Entry,25-34,Switzerland,British,4,No,No,No,1.6,3,Yes,No,No
+EMP1096,Male,Operations,1,Entry,55+,Switzerland,Chinese,3,No,No,No,0.7,5,No,No,No
+EMP1097,Female,Operations,1,Entry,55+,EMEA,Swiss,4,No,No,Yes,1.5,5,No,No,No
+EMP1098,Female,HR,1,Entry,25-34,EMEA,French,4,No,No,No,2.2,4,No,No,No
+EMP1099,Female,Sales,1,Entry,55+,EMEA,French,4,No,No,No,2.0,3,No,No,No
+EMP1100,Female,Executive,1,Entry,35-44,EMEA,Swiss,4,No,No,Yes,4.2,4,No,No,No
+EMP1101,Female,Operations,1,Entry,16-24,Switzerland,Swiss,4,No,Yes,No,0.8,3,Yes,No,No
+EMP1102,Female,Executive,1,Entry,25-34,Switzerland,German,5,No,No,No,4.0,3,No,Yes,No
+EMP1103,Male,Operations,1,Entry,35-44,Switzerland,Swiss,3,No,No,No,2.8,3,No,No,No
+EMP1104,Male,IT,1,Entry,25-34,EMEA,French,5,Yes,No,No,3.6,4,No,No,No
+EMP1105,Female,Finance,1,Entry,55+,EMEA,German,4,No,Yes,No,3.7,5,No,Yes,No
+EMP1106,Male,Executive,1,Entry,25-34,Switzerland,American,4,No,No,No,2.8,5,Yes,No,No
+EMP1107,Female,Operations,1,Entry,45-54,EMEA,German,5,No,No,No,0.6,4,No,No,No
+EMP1108,Female,Marketing,1,Entry,35-44,Asia Pacific,Swiss,3,No,No,No,5.1,2,No,Yes,No
+EMP1109,Male,Sales,1,Entry,45-54,Switzerland,Other,5,No,No,No,5.6,3,No,No,No
+EMP1110,Female,HR,1,Entry,35-44,Switzerland,German,3,No,No,No,4.7,5,No,No,No
+EMP1111,Male,Executive,1,Entry,16-24,EMEA,Swiss,3,No,No,No,0.6,2,No,No,No
+EMP1112,Female,Legal,1,Entry,25-34,Switzerland,British,2,No,No,No,1.2,3,No,No,No
+EMP1113,Female,Operations,1,Entry,35-44,Switzerland,British,3,Yes,No,Yes,1.9,2,Yes,No,No
+EMP1114,Female,Finance,1,Entry,35-44,Asia Pacific,French,3,No,No,No,2.2,3,No,Yes,No
+EMP1115,Female,Sales,1,Entry,25-34,Switzerland,British,3,No,No,No,5.5,5,No,No,No
+EMP1116,Female,Finance,1,Entry,25-34,Switzerland,Chinese,3,No,No,No,4.2,4,No,No,No
+EMP1117,Female,Legal,1,Entry,45-54,Switzerland,Swiss,4,No,No,No,1.7,4,Yes,No,Yes
+EMP1118,Male,Executive,1,Entry,35-44,Switzerland,Swiss,4,No,No,No,1.8,3,No,Yes,No
+EMP1119,Male,Legal,1,Entry,45-54,Switzerland,French,3,No,No,No,2.9,3,No,No,No
+EMP1120,Male,IT,1,Entry,55+,EMEA,German,2,Yes,No,No,0.6,3,Yes,No,No
+EMP1121,Female,IT,1,Entry,25-34,Switzerland,Swiss,4,No,No,Yes,5.1,4,No,Yes,No
+EMP1122,Female,IT,1,Entry,35-44,EMEA,Swiss,4,No,No,No,0.7,4,No,Yes,No
+EMP1123,Male,Finance,1,Entry,25-34,EMEA,Swiss,2,Yes,No,No,4.4,2,No,Yes,No
+EMP1124,Male,Executive,1,Entry,35-44,Switzerland,Indian,2,Yes,No,No,5.3,3,Yes,No,Yes
+EMP1125,Male,Legal,1,Entry,35-44,Switzerland,French,5,No,No,No,4.1,4,Yes,No,No
+EMP1126,Male,Finance,1,Entry,45-54,EMEA,Swiss,4,No,No,No,0.5,4,No,No,No
+EMP1127,Female,IT,1,Entry,16-24,EMEA,French,4,Yes,Yes,No,2.6,4,No,No,No
+EMP1128,Male,Sales,1,Entry,35-44,Americas,German,3,No,No,No,1.8,4,No,Yes,No
+EMP1129,Male,Legal,1,Entry,45-54,Switzerland,German,3,Yes,No,No,5.6,3,No,No,No
+EMP1130,Male,Sales,1,Entry,16-24,Americas,French,3,No,Yes,No,4.2,3,No,No,No
+EMP1131,Male,Finance,1,Entry,35-44,Switzerland,British,4,No,No,No,3.2,4,No,No,No
+EMP1132,Male,HR,1,Entry,35-44,Americas,American,5,No,No,Yes,1.7,4,No,No,No
+EMP1133,Male,Legal,1,Entry,45-54,Switzerland,Swiss,5,No,No,No,1.7,4,Yes,No,No
+EMP1134,Female,Executive,1,Entry,25-34,Switzerland,German,3,No,Yes,No,0.7,3,No,No,No
+EMP1135,Female,Operations,1,Entry,45-54,Asia Pacific,Swiss,4,No,No,No,5.7,3,No,No,No
+EMP1136,Male,HR,1,Entry,45-54,EMEA,Swiss,3,No,No,No,3.7,4,No,No,No
+EMP1137,Male,HR,1,Entry,25-34,EMEA,Chinese,3,Yes,No,No,2.8,4,No,No,No
+EMP1138,Female,Operations,1,Entry,35-44,EMEA,Indian,3,No,No,No,1.9,4,No,No,No
+EMP1139,Male,IT,1,Entry,25-34,Americas,Swiss,3,No,No,No,3.1,5,No,No,No
+EMP1140,Male,HR,1,Entry,35-44,EMEA,British,4,No,No,No,3.2,4,No,Yes,No
+EMP1141,Male,Legal,1,Entry,25-34,Switzerland,German,3,No,No,No,5.5,4,No,Yes,No
+EMP1142,Male,Sales,1,Entry,35-44,Switzerland,German,5,No,Yes,No,1.0,4,No,No,No
+EMP1143,Female,Finance,1,Entry,35-44,Switzerland,Swiss,3,No,No,No,5.9,3,No,No,No
+EMP1144,Male,Executive,1,Entry,35-44,Switzerland,Other,3,No,No,No,4.0,4,No,No,Yes
+EMP1145,Male,Finance,1,Entry,35-44,Switzerland,German,3,No,No,No,4.1,4,No,No,Yes
+EMP1146,Female,Operations,1,Entry,55+,Asia Pacific,German,5,No,No,No,2.2,4,No,No,No
+EMP1147,Male,Legal,1,Entry,45-54,EMEA,Swiss,5,No,No,No,2.6,4,No,No,No
+EMP1148,Male,Executive,1,Entry,25-34,Switzerland,French,4,No,No,No,3.0,3,No,No,No
+EMP1149,Female,Executive,1,Entry,25-34,Americas,Other,4,No,No,No,1.0,5,No,No,No
+EMP1150,Female,IT,1,Entry,55+,Asia Pacific,German,4,Yes,No,No,0.9,3,Yes,No,No
+EMP1151,Female,Operations,1,Entry,35-44,Americas,Swiss,4,Yes,No,No,0.8,4,No,No,No
+EMP1152,Female,Legal,1,Entry,25-34,Switzerland,Swiss,3,No,No,No,4.6,4,No,No,No
+EMP1153,Male,Sales,1,Entry,25-34,Americas,French,2,No,No,No,5.5,3,No,Yes,No
+EMP1154,Female,Legal,1,Entry,35-44,EMEA,British,4,No,No,No,4.8,4,No,No,No
+EMP1155,Female,HR,1,Entry,25-34,Switzerland,Other,3,No,No,No,4.7,4,No,No,No
+EMP1156,Male,Sales,1,Entry,45-54,Switzerland,Swiss,5,No,No,No,3.3,4,No,No,No
+EMP1157,Female,Sales,1,Entry,16-24,Switzerland,French,3,No,No,No,0.6,2,No,No,No
+EMP1158,Female,Operations,1,Entry,25-34,Asia Pacific,Swiss,4,No,No,No,4.7,3,Yes,Yes,No
+EMP1159,Male,Executive,1,Entry,25-34,Switzerland,French,2,No,No,No,3.3,3,No,No,No
+EMP1160,Male,IT,1,Entry,25-34,Switzerland,British,5,No,No,No,1.4,4,No,No,No
+EMP1161,Female,IT,1,Entry,45-54,Switzerland,German,5,No,No,No,4.9,3,Yes,No,No
+EMP1162,Female,HR,1,Entry,55+,EMEA,Swiss,4,No,No,Yes,0.8,3,No,No,No
+EMP1163,Male,HR,1,Entry,16-24,Americas,Swiss,5,No,No,No,2.3,4,No,No,No
+EMP1164,Female,Executive,1,Entry,45-54,Asia Pacific,Swiss,3,No,No,No,2.5,4,No,Yes,No
+EMP1165,Female,Finance,1,Entry,35-44,Americas,American,4,Yes,No,No,2.2,3,No,No,No
+EMP1166,Female,Sales,1,Entry,35-44,Asia Pacific,Indian,3,No,No,No,3.3,3,No,No,No
+EMP1167,Female,Operations,1,Entry,16-24,EMEA,Other,4,No,No,No,2.1,3,No,No,No
+EMP1168,Female,Sales,1,Entry,25-34,EMEA,British,3,No,No,No,4.1,4,No,No,No
+EMP1169,Male,Legal,1,Entry,16-24,Americas,Swiss,5,No,No,No,3.7,4,No,No,No
+EMP1170,Female,IT,1,Entry,25-34,EMEA,French,3,No,Yes,No,4.5,5,No,Yes,No
+EMP1171,Female,Sales,1,Entry,35-44,EMEA,Indian,5,No,No,No,1.5,4,No,Yes,No
+EMP1172,Female,Executive,1,Entry,45-54,EMEA,Swiss,3,Yes,No,No,1.0,3,Yes,No,No
+EMP1173,Female,Sales,1,Entry,16-24,Asia Pacific,Other,5,Yes,No,No,0.6,3,No,Yes,No
+EMP1174,Male,Sales,1,Entry,55+,Americas,American,4,No,Yes,No,4.4,5,No,No,No
+EMP1175,Male,IT,1,Entry,45-54,Americas,German,4,Yes,Yes,No,3.0,3,No,No,No
+EMP1176,Male,Legal,1,Entry,45-54,Switzerland,German,5,Yes,No,No,2.2,2,No,No,No
+EMP1177,Female,Finance,1,Entry,45-54,EMEA,Swiss,4,No,No,No,0.8,5,No,No,No
+EMP1178,Female,Executive,1,Entry,45-54,Switzerland,Other,4,No,Yes,No,5.6,3,No,No,No
+EMP1179,Male,IT,1,Entry,55+,Americas,Other,5,No,No,No,2.7,5,No,No,Yes
+EMP1180,Male,HR,1,Entry,35-44,Americas,Swiss,2,Yes,Yes,No,0.9,3,No,No,Yes
+EMP1181,Male,Finance,2,Junior,35-44,Americas,Swiss,4,No,No,No,1.7,3,Yes,No,No
+EMP1182,Female,Marketing,2,Junior,16-24,Switzerland,Swiss,3,No,No,No,3.0,2,No,No,No
+EMP1183,Male,Sales,2,Junior,45-54,Americas,British,3,No,No,No,4.2,4,No,No,No
+EMP1184,Female,Operations,2,Junior,45-54,Americas,British,5,No,No,No,5.5,3,No,No,No
+EMP1185,Female,HR,2,Junior,25-34,EMEA,British,3,Yes,No,No,4.0,4,No,No,No
+EMP1186,Male,Legal,2,Junior,35-44,Switzerland,Swiss,3,No,Yes,No,3.5,5,No,No,No
+EMP1187,Female,Marketing,2,Junior,45-54,Switzerland,Chinese,4,No,No,No,1.2,4,No,No,No
+EMP1188,Female,Operations,2,Junior,35-44,EMEA,Indian,4,No,No,No,4.6,4,No,No,No
+EMP1189,Female,Marketing,2,Junior,25-34,Switzerland,British,3,No,No,No,3.2,3,No,No,No
+EMP1190,Female,Legal,2,Junior,25-34,Switzerland,French,5,No,No,No,2.1,4,No,No,No
+EMP1191,Male,Executive,2,Junior,35-44,Switzerland,Swiss,3,No,No,No,5.5,5,Yes,No,No
+EMP1192,Male,Sales,2,Junior,25-34,Switzerland,Other,3,No,No,No,0.9,4,Yes,No,No
+EMP1193,Male,HR,2,Junior,25-34,EMEA,French,4,No,No,No,4.3,5,No,Yes,No
+EMP1194,Male,Operations,2,Junior,35-44,Switzerland,Swiss,5,No,Yes,No,0.9,4,No,No,No
+EMP1195,Female,Finance,2,Junior,35-44,Switzerland,Swiss,4,No,No,No,3.5,4,No,No,Yes
+EMP1196,Male,Sales,2,Junior,35-44,Switzerland,German,5,No,No,No,4.3,5,No,No,Yes
+EMP1197,Female,Executive,2,Junior,35-44,Switzerland,Chinese,5,No,No,No,2.1,4,No,No,No
+EMP1198,Male,Sales,2,Junior,35-44,Switzerland,Swiss,3,No,No,Yes,3.9,3,No,No,No
+EMP1199,Female,Executive,2,Junior,35-44,EMEA,Chinese,2,No,No,No,3.9,2,No,No,No
+EMP1200,Male,Finance,2,Junior,25-34,Asia Pacific,French,4,No,No,No,2.8,3,Yes,No,No
+EMP1201,Female,IT,2,Junior,25-34,Switzerland,American,3,No,No,No,2.7,4,No,No,No
+EMP1202,Male,IT,2,Junior,25-34,Switzerland,Swiss,3,No,No,No,1.9,2,No,No,No
+EMP1203,Female,Executive,2,Junior,45-54,EMEA,Swiss,3,No,Yes,No,1.2,3,No,No,No
+EMP1204,Male,Finance,2,Junior,55+,Switzerland,American,5,Yes,Yes,No,2.4,3,No,No,No
+EMP1205,Male,IT,2,Junior,25-34,Switzerland,Swiss,4,No,No,No,4.7,3,No,No,No
+EMP1206,Female,Legal,2,Junior,25-34,Asia Pacific,Chinese,4,No,No,No,0.6,3,No,No,No
+EMP1207,Female,Legal,2,Junior,35-44,Switzerland,Other,4,No,Yes,No,2.0,4,No,No,No
+EMP1208,Female,Sales,2,Junior,35-44,Switzerland,French,3,No,No,No,1.1,3,No,No,No
+EMP1209,Female,Marketing,2,Junior,35-44,Asia Pacific,Swiss,5,No,No,No,3.9,5,Yes,No,No
+EMP1210,Female,HR,2,Junior,25-34,Switzerland,Indian,4,No,Yes,No,5.9,3,No,No,No
+EMP1211,Male,IT,2,Junior,25-34,EMEA,Indian,5,No,No,No,5.5,3,No,No,No
+EMP1212,Male,IT,2,Junior,25-34,EMEA,German,4,No,No,No,1.1,4,No,No,No
+EMP1213,Female,Finance,2,Junior,35-44,Americas,German,3,No,No,No,2.2,3,No,No,No
+EMP1214,Female,Finance,2,Junior,45-54,Switzerland,British,5,No,No,No,1.1,3,Yes,No,No
+EMP1215,Male,Operations,2,Junior,35-44,Americas,Swiss,3,No,No,No,2.7,4,No,Yes,No
+EMP1216,Female,HR,2,Junior,25-34,Americas,German,3,Yes,No,No,5.2,5,No,Yes,No
+EMP1217,Male,Sales,2,Junior,55+,Switzerland,Other,4,No,No,No,4.8,2,No,No,Yes
+EMP1218,Male,Finance,2,Junior,16-24,Switzerland,Indian,3,No,No,No,4.3,2,No,No,No
+EMP1219,Male,Sales,2,Junior,55+,Switzerland,Swiss,3,No,No,No,2.4,3,No,No,No
+EMP1220,Female,Finance,2,Junior,25-34,Americas,American,3,No,No,No,3.4,4,No,No,No
+EMP1221,Male,IT,2,Junior,55+,Asia Pacific,Other,1,No,Yes,No,4.8,5,No,No,No
+EMP1222,Male,HR,2,Junior,45-54,Americas,Swiss,3,No,No,No,3.9,3,No,Yes,No
+EMP1223,Male,Legal,2,Junior,25-34,Switzerland,Swiss,2,Yes,No,No,5.2,5,No,No,No
+EMP1224,Female,Legal,2,Junior,35-44,Asia Pacific,Indian,4,Yes,Yes,No,2.9,4,No,No,No
+EMP1225,Male,Operations,2,Junior,25-34,EMEA,Swiss,5,No,No,Yes,3.4,2,No,No,No
+EMP1226,Male,Operations,2,Junior,25-34,Asia Pacific,German,1,No,No,No,0.9,4,No,No,No
+EMP1227,Male,Sales,2,Junior,25-34,Americas,Swiss,4,No,No,No,5.4,3,No,Yes,No
+EMP1228,Male,IT,2,Junior,16-24,Asia Pacific,Swiss,4,No,No,No,5.1,5,No,Yes,No
+EMP1229,Male,Operations,2,Junior,45-54,EMEA,British,4,Yes,No,No,1.4,5,No,No,No
+EMP1230,Male,Operations,2,Junior,35-44,Switzerland,British,5,No,No,No,5.7,3,Yes,No,No
+EMP1231,Female,Executive,2,Junior,25-34,Americas,Swiss,3,No,Yes,No,3.0,2,No,No,No
+EMP1232,Male,Finance,2,Junior,35-44,EMEA,German,2,Yes,No,No,3.4,3,Yes,No,No
+EMP1233,Female,HR,2,Junior,35-44,EMEA,French,4,No,No,No,5.8,5,No,No,No
+EMP1234,Female,Marketing,2,Junior,35-44,EMEA,Swiss,1,No,No,No,3.8,5,No,No,No
+EMP1235,Female,IT,2,Junior,35-44,EMEA,Swiss,4,No,No,No,3.0,3,No,No,No
+EMP1236,Female,Executive,2,Junior,55+,EMEA,French,2,No,No,No,0.9,4,No,No,No
+EMP1237,Male,Executive,2,Junior,16-24,Switzerland,Chinese,4,Yes,No,No,3.6,5,Yes,No,No
+EMP1238,Female,HR,2,Junior,25-34,Switzerland,German,4,No,No,No,2.3,3,No,No,No
+EMP1239,Female,HR,2,Junior,35-44,Switzerland,Swiss,2,Yes,No,No,1.6,4,No,No,No
+EMP1240,Female,Executive,2,Junior,35-44,Americas,Indian,3,No,No,No,2.1,4,No,No,No
+EMP1241,Male,Legal,2,Junior,35-44,EMEA,British,3,No,No,Yes,5.3,4,Yes,No,No
+EMP1242,Female,Executive,2,Junior,16-24,Switzerland,French,3,No,Yes,No,3.4,3,No,No,No
+EMP1243,Female,HR,2,Junior,25-34,Americas,Indian,3,Yes,No,No,4.6,3,No,No,No
+EMP1244,Male,Executive,2,Junior,55+,Switzerland,Chinese,4,No,No,No,1.7,3,No,No,No
+EMP1245,Male,IT,2,Junior,35-44,Americas,American,1,No,No,No,4.2,3,No,No,No
+EMP1246,Male,Executive,2,Junior,35-44,Switzerland,Swiss,3,No,No,No,2.1,5,No,No,No
+EMP1247,Male,Sales,2,Junior,35-44,Switzerland,Indian,2,No,No,No,5.9,3,No,No,Yes
+EMP1248,Female,HR,2,Junior,35-44,Americas,Chinese,3,No,Yes,No,3.3,3,No,No,Yes
+EMP1249,Female,Operations,2,Junior,35-44,Switzerland,British,4,No,No,No,1.0,3,No,No,No
+EMP1250,Male,HR,2,Junior,55+,EMEA,Swiss,4,No,Yes,No,4.0,3,No,No,No
+EMP1251,Female,Executive,2,Junior,35-44,EMEA,Swiss,4,No,No,No,4.4,1,No,No,No
+EMP1252,Male,IT,2,Junior,45-54,Americas,Indian,5,No,No,No,3.2,2,No,No,No
+EMP1253,Female,Legal,2,Junior,25-34,Switzerland,Swiss,4,No,No,No,4.9,4,No,No,No
+EMP1254,Female,Executive,2,Junior,35-44,Asia Pacific,French,3,No,No,No,3.7,3,No,No,No
+EMP1255,Female,Sales,2,Junior,35-44,EMEA,French,3,No,Yes,No,1.2,3,No,No,No
+EMP1256,Male,Operations,2,Junior,35-44,Switzerland,French,3,No,No,No,1.1,3,No,No,No
+EMP1257,Male,Legal,2,Junior,45-54,EMEA,Swiss,3,No,No,No,2.2,4,No,No,No
+EMP1258,Male,Operations,2,Junior,25-34,EMEA,Swiss,4,No,No,No,0.7,2,No,No,Yes
+EMP1259,Female,Sales,2,Junior,35-44,Asia Pacific,German,3,No,No,No,5.0,5,No,No,Yes
+EMP1260,Male,Marketing,2,Junior,35-44,Switzerland,American,3,No,No,Yes,2.4,3,No,No,No
+EMP1261,Female,Finance,2,Junior,45-54,EMEA,Swiss,4,No,No,No,4.1,4,Yes,No,No
+EMP1262,Female,Finance,2,Junior,35-44,Asia Pacific,American,3,No,No,No,5.1,2,No,No,No
+EMP1263,Male,Marketing,2,Junior,45-54,Switzerland,Swiss,4,No,No,Yes,4.3,4,No,No,No
+EMP1264,Female,HR,2,Junior,35-44,Switzerland,American,4,Yes,No,No,2.0,1,No,No,No
+EMP1265,Male,Sales,2,Junior,45-54,Switzerland,French,3,No,Yes,No,3.9,3,No,No,No
+EMP1266,Female,Sales,2,Junior,35-44,Americas,Swiss,3,No,No,No,2.7,4,No,No,No
+EMP1267,Female,Marketing,2,Junior,35-44,Americas,Indian,3,No,No,No,1.1,5,No,Yes,No
+EMP1268,Female,Operations,2,Junior,35-44,Asia Pacific,German,5,Yes,Yes,No,3.6,4,No,Yes,No
+EMP1269,Female,Marketing,2,Junior,25-34,Americas,French,4,No,No,No,1.2,3,No,No,No
+EMP1270,Male,Finance,2,Junior,45-54,Switzerland,German,5,Yes,Yes,No,5.9,3,No,No,No
+EMP1271,Female,Finance,2,Junior,55+,Americas,Swiss,4,Yes,No,No,4.6,2,No,No,No
+EMP1272,Male,Sales,2,Junior,45-54,Switzerland,Swiss,2,No,No,No,5.6,3,No,No,No
+EMP1273,Male,Legal,2,Junior,25-34,EMEA,French,3,No,Yes,No,3.0,5,No,Yes,No
+EMP1274,Male,Executive,2,Junior,55+,Asia Pacific,Swiss,5,No,Yes,No,4.4,3,No,No,Yes
+EMP1275,Male,Legal,2,Junior,55+,Asia Pacific,Swiss,4,No,No,No,4.4,5,Yes,No,No
+EMP1276,Female,Marketing,2,Junior,35-44,Americas,German,3,No,No,No,5.8,4,No,No,No
+EMP1277,Male,Executive,2,Junior,25-34,Switzerland,Swiss,4,No,No,Yes,4.1,3,No,No,No
+EMP1278,Female,Legal,2,Junior,25-34,EMEA,American,4,No,No,No,0.8,4,No,Yes,Yes
+EMP1279,Female,Operations,2,Junior,35-44,Americas,British,4,No,No,No,1.8,3,No,No,No
+EMP1280,Male,Operations,2,Junior,25-34,EMEA,Other,2,No,No,No,2.3,4,No,Yes,No
+EMP1281,Male,Sales,2,Junior,45-54,EMEA,Swiss,4,Yes,No,No,1.1,5,No,No,No
+EMP1282,Female,Operations,2,Junior,45-54,EMEA,German,3,No,No,No,0.9,4,No,No,No
+EMP1283,Male,Operations,2,Junior,45-54,Americas,French,3,Yes,Yes,No,5.6,4,No,No,No
+EMP1284,Male,IT,2,Junior,25-34,Switzerland,French,4,No,Yes,No,0.6,4,No,No,No
+EMP1285,Female,Marketing,2,Junior,55+,Switzerland,Indian,4,No,No,No,4.7,4,No,Yes,No
+EMP1286,Male,Legal,2,Junior,35-44,Asia Pacific,Swiss,1,No,No,No,1.3,5,No,No,No
+EMP1287,Female,IT,2,Junior,25-34,Switzerland,Indian,4,No,No,No,3.7,4,No,No,No
+EMP1288,Female,Finance,2,Junior,25-34,Switzerland,Other,4,Yes,No,No,1.4,5,No,No,No
+EMP1289,Female,IT,2,Junior,25-34,Americas,Swiss,3,Yes,No,No,5.6,2,No,No,No
+EMP1290,Female,HR,2,Junior,45-54,Asia Pacific,Swiss,3,No,Yes,No,3.7,3,No,No,No
+EMP1291,Male,IT,2,Junior,25-34,Americas,Swiss,3,Yes,No,No,5.3,1,No,No,Yes
+EMP1292,Female,HR,2,Junior,35-44,Asia Pacific,Other,3,No,No,Yes,1.8,4,No,No,No
+EMP1293,Female,Finance,2,Junior,25-34,Switzerland,Indian,3,No,No,No,2.9,3,No,No,No
+EMP1294,Female,Executive,2,Junior,45-54,Asia Pacific,German,4,No,No,No,3.5,3,No,No,No
+EMP1295,Male,Finance,2,Junior,45-54,EMEA,Swiss,5,No,No,No,3.4,1,No,No,Yes
+EMP1296,Female,Finance,2,Junior,16-24,Switzerland,Swiss,3,No,No,No,4.8,3,No,No,No
+EMP1297,Male,Marketing,2,Junior,45-54,Asia Pacific,Swiss,4,No,Yes,No,5.4,4,No,No,No
+EMP1298,Male,Operations,2,Junior,25-34,EMEA,Indian,3,No,No,No,5.3,2,No,No,No
+EMP1299,Male,Operations,2,Junior,45-54,Switzerland,American,3,No,No,No,2.6,5,No,Yes,No
+EMP1300,Male,Finance,2,Junior,45-54,EMEA,Swiss,5,No,Yes,No,3.7,5,No,No,No
+EMP1301,Male,IT,2,Junior,25-34,EMEA,Swiss,2,No,Yes,No,0.8,4,No,Yes,No
+EMP1302,Female,Legal,2,Junior,16-24,EMEA,French,4,No,Yes,No,0.9,4,No,No,No
+EMP1303,Male,Finance,2,Junior,35-44,Switzerland,British,4,No,No,No,3.2,3,No,No,No
+EMP1304,Male,Executive,2,Junior,25-34,Switzerland,Swiss,4,No,No,Yes,1.0,2,No,No,No
+EMP1305,Male,Legal,2,Junior,35-44,Americas,German,4,Yes,Yes,No,3.5,4,No,No,No
+EMP1306,Male,Executive,2,Junior,45-54,Switzerland,Swiss,5,No,No,No,5.4,5,No,No,No
+EMP1307,Male,Sales,2,Junior,35-44,Switzerland,French,4,No,Yes,No,4.0,3,No,No,No
+EMP1308,Female,Operations,2,Junior,25-34,Americas,Swiss,2,No,No,No,0.6,3,No,Yes,No
+EMP1309,Female,Operations,2,Junior,25-34,Americas,Swiss,3,No,No,No,0.7,4,No,No,No
+EMP1310,Male,IT,2,Junior,45-54,Switzerland,French,3,No,Yes,No,4.8,5,No,No,No
+EMP1311,Male,HR,2,Junior,25-34,Switzerland,Indian,3,No,No,No,3.0,4,No,No,No
+EMP1312,Male,Sales,2,Junior,25-34,Switzerland,British,4,No,Yes,No,3.4,3,No,No,No
+EMP1313,Male,HR,2,Junior,35-44,Switzerland,Other,2,No,No,No,2.6,4,No,No,No
+EMP1314,Male,Operations,2,Junior,35-44,Asia Pacific,German,4,No,Yes,No,3.3,2,No,Yes,No
+EMP1315,Male,Sales,2,Junior,16-24,EMEA,Chinese,3,No,No,No,0.8,5,No,No,No
+EMP1316,Male,Legal,2,Junior,45-54,Switzerland,German,4,No,No,No,3.6,3,Yes,No,No
+EMP1317,Male,Marketing,2,Junior,45-54,Americas,Other,3,No,No,No,3.2,3,No,No,No
+EMP1318,Male,Finance,2,Junior,35-44,Switzerland,French,4,Yes,No,No,5.0,4,No,No,No
+EMP1319,Male,Legal,2,Junior,45-54,EMEA,German,4,No,No,No,3.6,5,No,Yes,No
+EMP1320,Male,Marketing,2,Junior,25-34,Switzerland,Swiss,4,Yes,No,No,4.0,4,No,No,No
+EMP1321,Female,HR,2,Junior,25-34,Switzerland,American,2,No,No,No,5.0,3,No,No,No
+EMP1322,Male,Operations,2,Junior,35-44,Switzerland,Swiss,4,No,No,No,3.5,2,No,No,No
+EMP1323,Female,Finance,2,Junior,45-54,Switzerland,Indian,1,No,Yes,No,5.4,2,No,No,No
+EMP1324,Female,Sales,2,Junior,16-24,Americas,French,3,No,No,No,1.9,3,No,No,No
+EMP1325,Female,HR,2,Junior,45-54,Asia Pacific,German,4,No,No,No,4.5,4,No,Yes,No
+EMP1326,Female,HR,2,Junior,35-44,EMEA,Swiss,4,No,Yes,No,1.8,5,No,No,Yes
+EMP1327,Female,Operations,2,Junior,35-44,Americas,French,3,No,No,No,3.7,5,Yes,Yes,No
+EMP1328,Male,Marketing,2,Junior,25-34,EMEA,Indian,3,No,No,Yes,1.8,4,Yes,No,No
+EMP1329,Male,Finance,2,Junior,16-24,EMEA,British,4,No,No,No,2.7,4,No,No,No
+EMP1330,Female,Finance,2,Junior,16-24,Americas,British,4,No,No,No,5.7,4,Yes,No,No
+EMP1331,Female,Sales,3,Senior,35-44,Americas,American,3,No,No,No,3.1,5,Yes,No,No
+EMP1332,Male,Operations,3,Senior,25-34,EMEA,Indian,3,No,No,No,1.4,3,No,No,No
+EMP1333,Male,HR,3,Senior,45-54,Switzerland,Swiss,5,Yes,No,No,1.5,3,No,Yes,No
+EMP1334,Female,Sales,3,Senior,45-54,EMEA,Swiss,3,Yes,No,No,3.3,5,Yes,Yes,No
+EMP1335,Male,Executive,3,Senior,25-34,Switzerland,Swiss,4,No,No,No,5.2,3,No,Yes,No
+EMP1336,Male,Operations,3,Senior,16-24,EMEA,French,4,No,No,No,1.9,3,No,Yes,No
+EMP1337,Female,Legal,3,Senior,35-44,Switzerland,French,3,No,Yes,No,5.8,3,No,No,No
+EMP1338,Female,IT,3,Senior,45-54,EMEA,French,4,No,No,No,1.9,2,No,No,No
+EMP1339,Female,IT,3,Senior,25-34,Switzerland,Swiss,3,No,No,No,2.5,3,No,No,No
+EMP1340,Male,Executive,3,Senior,25-34,Switzerland,British,4,No,No,No,5.6,3,No,No,No
+EMP1341,Female,Marketing,3,Senior,16-24,Americas,Swiss,3,No,No,No,1.0,3,No,No,Yes
+EMP1342,Female,Sales,3,Senior,45-54,Switzerland,Swiss,5,No,No,No,2.0,4,No,No,No
+EMP1343,Female,HR,3,Senior,55+,Switzerland,Swiss,3,No,No,No,4.1,4,Yes,No,No
+EMP1344,Female,Operations,3,Senior,45-54,Switzerland,German,5,Yes,No,No,2.2,4,No,No,No
+EMP1345,Male,Legal,3,Senior,55+,Asia Pacific,American,5,No,No,No,5.1,3,No,No,No
+EMP1346,Female,Operations,3,Senior,35-44,Switzerland,German,5,No,No,No,1.3,4,No,No,No
+EMP1347,Male,Finance,3,Senior,25-34,Asia Pacific,Swiss,2,Yes,No,No,3.2,4,No,Yes,No
+EMP1348,Male,Operations,3,Senior,35-44,EMEA,Swiss,3,Yes,No,No,3.0,4,No,No,No
+EMP1349,Female,Marketing,3,Senior,25-34,EMEA,Swiss,3,No,No,No,4.4,3,No,No,No
+EMP1350,Male,HR,3,Senior,16-24,EMEA,Indian,2,No,No,No,2.8,3,Yes,No,No
+EMP1351,Male,Operations,3,Senior,55+,Asia Pacific,German,2,No,Yes,No,3.6,5,No,No,No
+EMP1352,Male,HR,3,Senior,25-34,Americas,British,3,Yes,No,No,5.1,3,No,No,No
+EMP1353,Male,Executive,3,Senior,55+,Switzerland,German,3,No,No,No,3.1,3,No,No,No
+EMP1354,Male,Legal,3,Senior,45-54,Switzerland,Other,4,No,No,No,5.2,4,No,No,No
+EMP1355,Female,IT,3,Senior,16-24,EMEA,Other,3,No,No,No,4.3,3,No,No,Yes
+EMP1356,Female,HR,3,Senior,16-24,Asia Pacific,British,2,No,No,No,2.5,3,No,No,No
+EMP1357,Male,Legal,3,Senior,35-44,Americas,Chinese,2,No,No,No,1.1,3,Yes,No,No
+EMP1358,Male,Executive,3,Senior,25-34,Americas,Swiss,3,No,No,No,4.7,4,No,No,No
+EMP1359,Female,Marketing,3,Senior,16-24,Switzerland,Swiss,4,No,Yes,No,3.9,5,Yes,No,No
+EMP1360,Female,Finance,3,Senior,25-34,Asia Pacific,Swiss,4,No,No,No,1.4,3,No,No,No
+EMP1361,Female,Executive,3,Senior,55+,Switzerland,British,4,No,No,No,4.9,4,No,No,No
+EMP1362,Female,HR,3,Senior,25-34,EMEA,Other,5,No,No,No,2.0,4,No,No,No
+EMP1363,Male,Marketing,3,Senior,55+,Switzerland,Swiss,5,No,No,No,4.0,3,No,No,No
+EMP1364,Male,Executive,3,Senior,35-44,EMEA,French,5,No,No,No,1.1,4,No,No,No
+EMP1365,Male,HR,3,Senior,55+,EMEA,French,4,No,No,No,1.1,2,No,No,No
+EMP1366,Female,Legal,3,Senior,45-54,Switzerland,Swiss,3,Yes,No,No,3.4,3,No,Yes,No
+EMP1367,Female,Sales,3,Senior,55+,Switzerland,Swiss,3,No,No,No,4.4,4,No,No,No
+EMP1368,Female,IT,3,Senior,25-34,Asia Pacific,Other,3,No,No,No,3.2,3,No,No,No
+EMP1369,Male,HR,3,Senior,16-24,Switzerland,Swiss,3,No,No,No,2.0,2,No,No,No
+EMP1370,Female,Marketing,3,Senior,16-24,Switzerland,Indian,4,No,No,No,4.9,4,No,No,No
+EMP1371,Male,Legal,3,Senior,25-34,Switzerland,American,3,No,No,No,4.4,4,Yes,No,No
+EMP1372,Male,IT,3,Senior,16-24,Americas,Swiss,4,Yes,No,No,3.3,5,No,No,No
+EMP1373,Female,Legal,3,Senior,16-24,Switzerland,Swiss,4,No,No,No,5.0,4,No,No,Yes
+EMP1374,Male,Finance,3,Senior,25-34,Switzerland,American,3,No,No,Yes,4.7,5,No,No,No
+EMP1375,Male,Executive,3,Senior,16-24,Switzerland,Swiss,5,Yes,No,No,1.8,5,Yes,No,No
+EMP1376,Male,Sales,3,Senior,35-44,Switzerland,German,3,Yes,No,Yes,4.9,4,No,No,No
+EMP1377,Male,Sales,3,Senior,25-34,Asia Pacific,French,5,No,No,No,5.5,3,Yes,No,No
+EMP1378,Male,Legal,3,Senior,16-24,EMEA,German,3,No,No,No,2.7,5,Yes,No,No
+EMP1379,Male,Finance,3,Senior,16-24,Switzerland,Swiss,2,Yes,No,No,2.1,4,No,No,No
+EMP1380,Male,HR,3,Senior,25-34,Switzerland,French,2,Yes,Yes,No,3.2,3,No,No,No
+EMP1381,Male,HR,3,Senior,25-34,Asia Pacific,Other,4,No,No,No,4.4,2,No,No,No
+EMP1382,Female,Operations,3,Senior,35-44,Asia Pacific,Other,3,No,No,No,1.9,4,Yes,Yes,Yes
+EMP1383,Male,Sales,3,Senior,35-44,Americas,German,5,No,No,No,1.8,3,No,No,No
+EMP1384,Male,Legal,3,Senior,25-34,Switzerland,Chinese,4,No,No,No,5.3,3,Yes,Yes,No
+EMP1385,Male,Marketing,3,Senior,25-34,Switzerland,Swiss,4,No,No,No,4.9,5,No,No,No
+EMP1386,Female,Legal,3,Senior,45-54,Asia Pacific,German,3,No,No,No,4.5,2,No,No,No
+EMP1387,Female,Marketing,3,Senior,16-24,Asia Pacific,Swiss,3,No,No,No,3.3,4,Yes,No,No
+EMP1388,Female,HR,3,Senior,45-54,Americas,Swiss,3,No,No,No,1.3,3,Yes,Yes,No
+EMP1389,Male,Sales,3,Senior,25-34,Switzerland,Swiss,4,No,No,No,4.7,3,No,No,No
+EMP1390,Male,Executive,3,Senior,35-44,EMEA,Chinese,1,No,No,No,2.3,3,Yes,No,No
+EMP1391,Male,Legal,3,Senior,45-54,Asia Pacific,American,1,No,No,No,5.7,4,No,No,No
+EMP1392,Male,Legal,3,Senior,25-34,Switzerland,British,3,No,No,No,1.9,4,No,Yes,No
+EMP1393,Male,Marketing,3,Senior,45-54,Switzerland,Indian,4,Yes,Yes,No,4.9,3,Yes,Yes,No
+EMP1394,Male,Marketing,3,Senior,25-34,Switzerland,Swiss,3,Yes,No,No,5.7,3,No,Yes,No
+EMP1395,Female,Legal,3,Senior,35-44,EMEA,Other,3,No,No,No,3.8,4,Yes,No,No
+EMP1396,Female,IT,3,Senior,25-34,EMEA,Swiss,3,No,No,No,4.5,4,No,No,No
+EMP1397,Male,Legal,3,Senior,25-34,Switzerland,Other,3,Yes,No,Yes,1.3,3,No,Yes,No
+EMP1398,Female,Finance,3,Senior,35-44,Switzerland,German,5,No,No,No,3.2,5,No,Yes,No
+EMP1399,Male,Sales,3,Senior,45-54,Americas,German,4,No,No,No,5.6,2,No,No,No
+EMP1400,Male,Finance,3,Senior,45-54,Asia Pacific,Swiss,5,No,No,No,1.0,5,No,No,No
+EMP1401,Female,HR,3,Senior,35-44,EMEA,American,3,No,No,No,3.1,3,Yes,No,Yes
+EMP1402,Male,Marketing,3,Senior,35-44,Asia Pacific,French,4,No,No,No,4.3,4,No,No,No
+EMP1403,Male,IT,3,Senior,55+,Asia Pacific,German,1,No,Yes,Yes,1.5,2,Yes,No,No
+EMP1404,Male,Operations,3,Senior,25-34,Americas,French,4,No,Yes,No,4.3,5,Yes,No,No
+EMP1405,Male,Sales,3,Senior,25-34,Americas,American,3,No,No,Yes,1.3,3,No,No,No
+EMP1406,Female,Marketing,3,Senior,25-34,Switzerland,American,4,No,No,No,4.3,3,No,No,No
+EMP1407,Female,HR,3,Senior,25-34,Switzerland,German,3,No,Yes,No,4.3,2,No,No,No
+EMP1408,Male,Marketing,3,Senior,35-44,Americas,Swiss,3,No,No,Yes,3.6,3,Yes,No,Yes
+EMP1409,Female,Sales,3,Senior,45-54,Switzerland,Swiss,5,No,No,No,5.9,3,No,No,No
+EMP1410,Female,HR,3,Senior,25-34,Americas,Other,3,No,No,No,3.3,2,No,Yes,No
+EMP1411,Male,IT,3,Senior,45-54,EMEA,Chinese,4,No,No,No,2.6,3,No,No,No
+EMP1412,Female,Sales,3,Senior,35-44,EMEA,French,4,No,No,No,2.6,3,No,No,No
+EMP1413,Female,Operations,3,Senior,16-24,EMEA,Swiss,4,No,No,No,3.8,4,No,No,No
+EMP1414,Male,Marketing,3,Senior,55+,EMEA,Swiss,5,No,No,No,1.7,4,No,No,No
+EMP1415,Female,Operations,3,Senior,25-34,Americas,Swiss,4,Yes,No,No,0.7,3,No,No,Yes
+EMP1416,Female,HR,3,Senior,55+,Americas,American,3,No,No,No,3.7,4,No,No,No
+EMP1417,Male,Executive,3,Senior,55+,Switzerland,German,3,No,Yes,No,1.7,4,No,No,No
+EMP1418,Male,IT,3,Senior,25-34,Asia Pacific,Swiss,4,No,Yes,No,2.7,3,No,No,Yes
+EMP1419,Male,HR,3,Senior,35-44,Switzerland,Indian,3,No,No,No,4.9,5,No,No,No
+EMP1420,Male,Executive,3,Senior,35-44,Americas,German,3,No,No,No,0.5,4,Yes,Yes,No
+EMP1421,Female,Sales,3,Senior,25-34,EMEA,Swiss,4,No,No,No,4.9,5,No,No,No
+EMP1422,Female,Sales,3,Senior,25-34,Switzerland,German,5,No,No,No,5.1,3,Yes,No,No
+EMP1423,Female,Marketing,3,Senior,25-34,EMEA,Swiss,4,No,Yes,No,1.9,4,Yes,No,No
+EMP1424,Male,Executive,3,Senior,45-54,Switzerland,Swiss,5,No,No,No,3.7,3,No,No,No
+EMP1425,Female,Executive,3,Senior,35-44,Asia Pacific,German,4,No,No,No,5.2,4,No,No,Yes
+EMP1426,Female,Marketing,3,Senior,35-44,Americas,Swiss,5,No,No,Yes,3.8,3,No,No,Yes
+EMP1427,Female,Finance,3,Senior,16-24,Americas,Chinese,5,No,Yes,No,3.3,3,Yes,No,No
+EMP1428,Male,Executive,3,Senior,55+,Switzerland,Swiss,4,No,No,No,1.9,2,No,No,No
+EMP1429,Male,Marketing,3,Senior,35-44,EMEA,Swiss,5,No,Yes,No,4.9,4,Yes,No,No
+EMP1430,Female,Executive,3,Senior,16-24,Americas,Chinese,4,No,No,No,4.6,5,No,No,No
+EMP1431,Female,HR,3,Senior,35-44,Switzerland,Swiss,4,No,No,No,2.7,3,No,No,No
+EMP1432,Female,Executive,3,Senior,55+,Americas,French,4,No,No,No,1.1,4,Yes,Yes,Yes
+EMP1433,Female,IT,3,Senior,25-34,Asia Pacific,Swiss,3,No,No,No,1.8,4,No,No,No
+EMP1434,Male,Sales,3,Senior,25-34,Americas,German,4,No,No,No,5.5,4,No,Yes,No
+EMP1435,Male,Finance,3,Senior,45-54,Americas,German,4,No,No,No,5.3,4,No,No,No
+EMP1436,Female,Marketing,3,Senior,16-24,Switzerland,French,5,Yes,No,No,4.3,5,No,No,No
+EMP1437,Female,HR,3,Senior,16-24,EMEA,Swiss,5,No,No,Yes,4.4,4,Yes,No,No
+EMP1438,Female,HR,3,Senior,25-34,Asia Pacific,Chinese,4,No,No,No,4.8,4,No,Yes,No
+EMP1439,Male,Legal,3,Senior,25-34,EMEA,British,3,No,Yes,No,3.2,5,Yes,Yes,No
+EMP1440,Male,Finance,3,Senior,16-24,Switzerland,German,2,No,No,No,3.8,5,No,No,No
+EMP1441,Female,Legal,3,Senior,55+,Switzerland,Swiss,4,No,No,No,1.6,4,No,No,No
+EMP1442,Male,Legal,3,Senior,25-34,Asia Pacific,Other,3,No,No,No,2.9,2,No,No,No
+EMP1443,Male,Operations,3,Senior,45-54,Switzerland,French,3,No,No,No,5.8,3,Yes,No,No
+EMP1444,Female,Legal,3,Senior,25-34,Switzerland,French,3,No,No,No,0.8,4,No,No,No
+EMP1445,Male,IT,3,Senior,45-54,Asia Pacific,Swiss,5,No,No,No,5.5,1,No,No,No
+EMP1446,Male,Sales,3,Senior,25-34,Switzerland,French,4,Yes,No,No,3.3,4,Yes,No,No
+EMP1447,Male,Operations,3,Senior,35-44,Americas,Swiss,4,No,No,No,1.6,4,No,No,Yes
+EMP1448,Male,Operations,3,Senior,45-54,Switzerland,Chinese,4,No,No,No,1.5,5,Yes,No,No
+EMP1449,Male,Marketing,3,Senior,16-24,Americas,Swiss,4,No,No,No,3.8,3,No,No,No
+EMP1450,Male,Executive,3,Senior,45-54,Switzerland,Swiss,4,No,No,No,4.4,5,No,No,No
+EMP1451,Female,HR,4,Manager,45-54,Asia Pacific,French,3,No,Yes,No,6.2,4,Yes,No,No
+EMP1452,Female,Sales,4,Manager,25-34,Switzerland,German,4,No,No,No,4.9,4,No,No,No
+EMP1453,Male,Executive,4,Manager,25-34,Americas,Indian,2,No,No,No,2.7,4,No,No,No
+EMP1454,Male,Operations,4,Manager,25-34,Switzerland,Other,1,Yes,No,No,3.6,3,No,No,No
+EMP1455,Male,Marketing,4,Manager,45-54,EMEA,Chinese,3,No,No,No,2.2,2,No,No,No
+EMP1456,Female,Operations,4,Manager,35-44,Switzerland,British,4,No,No,No,5.0,4,No,No,No
+EMP1457,Male,Sales,4,Manager,35-44,Switzerland,Indian,4,No,No,No,3.1,4,No,No,No
+EMP1458,Male,IT,4,Manager,25-34,EMEA,Indian,2,No,No,No,4.1,1,No,No,Yes
+EMP1459,Male,Finance,4,Manager,25-34,Americas,Other,3,No,No,No,2.0,3,No,No,No
+EMP1460,Female,HR,4,Manager,25-34,Switzerland,Swiss,4,No,No,No,1.9,4,No,No,No
+EMP1461,Male,HR,4,Manager,35-44,Switzerland,German,3,No,No,No,4.0,5,No,No,No
+EMP1462,Female,Legal,4,Manager,45-54,Switzerland,American,3,No,No,No,2.0,3,Yes,No,No
+EMP1463,Male,Executive,4,Manager,35-44,Switzerland,British,3,No,No,Yes,3.0,2,No,Yes,No
+EMP1464,Female,Finance,4,Manager,35-44,EMEA,Swiss,3,No,No,No,5.3,2,No,No,No
+EMP1465,Male,HR,4,Manager,25-34,Americas,French,2,No,No,Yes,1.1,3,Yes,No,No
+EMP1466,Male,HR,4,Manager,35-44,Switzerland,Swiss,5,No,No,No,3.5,3,No,No,No
+EMP1467,Female,HR,4,Manager,25-34,EMEA,Other,5,No,No,No,3.9,5,No,No,No
+EMP1468,Male,IT,4,Manager,45-54,EMEA,Indian,3,No,No,No,2.5,3,Yes,Yes,No
+EMP1469,Male,Sales,4,Manager,35-44,Americas,Swiss,4,Yes,No,No,5.2,3,No,Yes,No
+EMP1470,Male,HR,4,Manager,45-54,EMEA,Other,4,Yes,No,No,5.2,4,No,No,No
+EMP1471,Male,Executive,4,Manager,25-34,Switzerland,British,3,No,No,No,3.6,3,No,No,No
+EMP1472,Female,Operations,4,Manager,45-54,Americas,Swiss,2,No,No,No,2.9,4,No,No,No
+EMP1473,Male,Marketing,4,Manager,16-24,Switzerland,American,3,No,No,No,3.0,2,No,No,No
+EMP1474,Female,Marketing,4,Manager,55+,Switzerland,Other,3,No,Yes,No,5.9,3,No,No,No
+EMP1475,Male,Finance,4,Manager,45-54,Switzerland,British,5,Yes,No,No,1.6,3,No,No,No
+EMP1476,Male,IT,4,Manager,45-54,Switzerland,Swiss,5,Yes,No,No,3.0,3,No,No,No
+EMP1477,Male,Operations,4,Manager,35-44,Switzerland,Swiss,3,No,No,No,3.0,5,No,No,No
+EMP1478,Male,Legal,4,Manager,55+,Switzerland,Swiss,4,No,No,No,3.0,2,No,No,No
+EMP1479,Female,Sales,4,Manager,25-34,Americas,Chinese,3,No,No,Yes,4.9,5,No,No,No
+EMP1480,Female,Finance,4,Manager,25-34,EMEA,Chinese,4,Yes,No,No,2.2,4,No,No,No
+EMP1481,Male,Marketing,4,Manager,35-44,Switzerland,French,5,Yes,No,No,1.8,2,No,No,No
+EMP1482,Male,Marketing,4,Manager,25-34,Switzerland,Chinese,3,No,No,No,5.4,3,No,No,No
+EMP1483,Male,HR,4,Manager,55+,Americas,Swiss,4,Yes,No,No,1.6,3,No,No,No
+EMP1484,Male,Sales,4,Manager,45-54,Switzerland,British,4,Yes,No,No,3.2,3,No,No,No
+EMP1485,Female,Sales,4,Manager,16-24,Asia Pacific,French,3,Yes,No,No,4.0,3,No,No,No
+EMP1486,Male,Operations,4,Manager,35-44,Americas,Swiss,3,No,No,No,0.6,3,Yes,No,No
+EMP1487,Male,Legal,4,Manager,16-24,Switzerland,French,2,No,No,No,2.3,5,No,No,No
+EMP1488,Female,Finance,4,Manager,45-54,Switzerland,Swiss,3,No,No,No,7.7,3,No,Yes,No
+EMP1489,Female,Operations,4,Manager,16-24,Asia Pacific,German,3,No,No,No,3.1,3,No,No,Yes
+EMP1490,Male,Operations,4,Manager,35-44,EMEA,Chinese,4,No,Yes,No,2.1,3,No,No,No
+EMP1491,Female,Executive,4,Manager,35-44,Asia Pacific,Swiss,3,No,No,No,5.8,1,No,No,No
+EMP1492,Female,Sales,4,Manager,25-34,Switzerland,British,3,No,No,No,1.9,3,No,No,No
+EMP1493,Female,Sales,4,Manager,25-34,Switzerland,Swiss,4,Yes,No,No,5.6,5,No,No,No
+EMP1494,Male,Legal,4,Manager,35-44,Switzerland,Swiss,3,No,No,No,1.7,4,No,Yes,No
+EMP1495,Female,Sales,4,Manager,35-44,Americas,Indian,5,No,No,Yes,5.6,2,No,No,No
+EMP1496,Male,Sales,4,Manager,25-34,Americas,German,3,No,No,No,4.7,4,Yes,No,No
+EMP1497,Female,HR,4,Manager,16-24,Switzerland,Other,5,Yes,No,No,6.2,4,No,No,No
+EMP1498,Female,Finance,4,Manager,25-34,Americas,Chinese,5,Yes,No,No,1.6,4,No,No,No
+EMP1499,Female,Marketing,4,Manager,55+,Switzerland,German,5,No,No,No,5.9,3,Yes,No,No
+EMP1500,Female,Marketing,4,Manager,45-54,Americas,American,4,No,Yes,No,2.4,5,Yes,No,No
+EMP1501,Male,Finance,4,Manager,25-34,Americas,German,4,No,No,No,5.1,4,No,No,No
+EMP1502,Female,Operations,4,Manager,25-34,EMEA,British,4,No,No,No,2.7,2,No,No,No
+EMP1503,Male,Finance,4,Manager,16-24,Asia Pacific,German,5,No,No,No,5.1,3,No,No,No
+EMP1504,Female,Finance,4,Manager,25-34,Asia Pacific,Swiss,5,No,No,No,2.8,3,No,No,No
+EMP1505,Female,Finance,4,Manager,35-44,Switzerland,Swiss,3,No,No,No,5.6,3,No,No,No
+EMP1506,Male,HR,4,Manager,55+,Switzerland,Indian,3,No,No,No,1.9,4,No,No,No
+EMP1507,Female,HR,4,Manager,25-34,EMEA,American,3,No,No,No,6.2,3,No,No,No
+EMP1508,Female,Executive,4,Manager,25-34,EMEA,Swiss,3,No,No,No,6.1,4,Yes,No,No
+EMP1509,Female,Operations,4,Manager,25-34,Switzerland,British,4,No,No,No,2.6,4,No,No,No
+EMP1510,Male,IT,4,Manager,25-34,Switzerland,British,3,No,No,No,1.5,3,No,No,No
+EMP1511,Male,HR,4,Manager,45-54,Asia Pacific,German,5,No,No,No,5.3,5,No,No,No
+EMP1512,Female,Executive,4,Manager,45-54,Switzerland,Swiss,3,Yes,No,No,3.5,3,No,No,No
+EMP1513,Female,Operations,4,Manager,25-34,Americas,Swiss,3,No,No,No,4.1,4,No,No,No
+EMP1514,Female,HR,4,Manager,25-34,Switzerland,Swiss,3,Yes,No,No,1.7,3,No,No,No
+EMP1515,Male,IT,4,Manager,25-34,EMEA,French,5,Yes,No,No,1.4,3,No,No,No
+EMP1516,Male,Sales,4,Manager,16-24,EMEA,British,3,No,No,No,2.4,3,No,No,No
+EMP1517,Female,HR,4,Manager,25-34,Americas,Swiss,2,No,Yes,No,4.0,3,No,No,No
+EMP1518,Male,Executive,4,Manager,35-44,EMEA,German,4,No,No,No,1.7,3,No,No,No
+EMP1519,Female,Operations,4,Manager,35-44,Switzerland,Swiss,3,No,Yes,No,5.3,4,No,No,No
+EMP1520,Male,Legal,4,Manager,45-54,Switzerland,Chinese,4,No,No,No,4.3,4,Yes,No,Yes
+EMP1521,Male,Operations,4,Manager,45-54,Switzerland,Swiss,2,Yes,No,No,5.0,4,No,Yes,No
+EMP1522,Female,Finance,4,Manager,25-34,Switzerland,Chinese,3,No,No,No,5.0,4,No,No,Yes
+EMP1523,Male,Executive,4,Manager,45-54,Switzerland,German,1,No,No,No,0.9,3,No,No,No
+EMP1524,Female,Finance,4,Manager,25-34,Americas,Swiss,3,No,No,No,4.4,4,No,No,No
+EMP1525,Female,Operations,4,Manager,25-34,Switzerland,American,3,No,No,No,6.5,5,No,No,No
+EMP1526,Female,Operations,4,Manager,35-44,Americas,French,2,No,No,Yes,6.4,4,No,No,No
+EMP1527,Female,Finance,4,Manager,25-34,Americas,German,4,No,No,No,2.3,5,No,Yes,No
+EMP1528,Male,Sales,4,Manager,25-34,Switzerland,German,2,No,No,No,3.7,4,Yes,No,No
+EMP1529,Male,Legal,4,Manager,45-54,Switzerland,Swiss,3,No,No,No,0.6,2,No,No,No
+EMP1530,Female,Finance,4,Manager,35-44,Switzerland,American,2,No,No,No,1.8,3,No,No,Yes
+EMP1531,Male,Sales,4,Manager,55+,EMEA,Chinese,5,Yes,No,No,1.2,4,No,No,No
+EMP1532,Female,Marketing,4,Manager,35-44,Switzerland,American,5,No,No,No,7.6,4,No,Yes,No
+EMP1533,Male,Marketing,4,Manager,25-34,Switzerland,American,3,No,Yes,No,2.2,3,No,No,No
+EMP1534,Female,Finance,4,Manager,35-44,EMEA,Chinese,2,Yes,No,No,5.5,3,No,No,No
+EMP1535,Male,Operations,4,Manager,16-24,Switzerland,British,4,No,No,Yes,3.8,4,No,No,No
+EMP1536,Female,Sales,4,Manager,35-44,Switzerland,Swiss,3,No,No,No,1.5,2,No,No,No
+EMP1537,Female,IT,4,Manager,55+,Switzerland,Indian,4,No,No,No,3.0,3,No,No,No
+EMP1538,Female,Legal,4,Manager,45-54,EMEA,German,5,No,No,No,6.4,3,Yes,No,No
+EMP1539,Female,Sales,4,Manager,45-54,Americas,German,3,No,No,No,6.9,4,No,No,No
+EMP1540,Female,Operations,4,Manager,25-34,EMEA,Swiss,3,Yes,No,No,2.8,4,Yes,No,No
+EMP1541,Male,Marketing,5,Senior Manager,25-34,Americas,Indian,4,No,No,No,3.6,5,No,No,No
+EMP1542,Female,Legal,5,Senior Manager,45-54,Switzerland,British,4,No,No,No,6.4,4,No,No,No
+EMP1543,Female,Legal,5,Senior Manager,16-24,Switzerland,Swiss,1,No,No,No,3.8,4,No,No,No
+EMP1544,Male,Marketing,5,Senior Manager,45-54,EMEA,French,5,No,Yes,No,3.7,3,No,No,No
+EMP1545,Male,Executive,5,Senior Manager,45-54,Switzerland,Other,4,No,No,No,2.5,2,Yes,No,No
+EMP1546,Male,HR,5,Senior Manager,35-44,EMEA,French,3,No,No,No,4.7,4,No,No,No
+EMP1547,Female,Marketing,5,Senior Manager,35-44,Switzerland,German,5,No,No,No,2.4,2,No,No,No
+EMP1548,Male,Operations,5,Senior Manager,55+,Switzerland,Swiss,4,No,No,No,3.7,5,No,No,No
+EMP1549,Male,HR,5,Senior Manager,25-34,Asia Pacific,French,4,No,No,No,4.5,3,No,Yes,No
+EMP1550,Male,Legal,5,Senior Manager,55+,Switzerland,British,4,Yes,No,No,2.0,3,No,No,No
+EMP1551,Male,Finance,5,Senior Manager,25-34,EMEA,Indian,4,No,Yes,No,5.6,3,No,No,No
+EMP1552,Male,IT,5,Senior Manager,45-54,Switzerland,French,2,Yes,No,No,0.5,4,No,No,No
+EMP1553,Female,Legal,5,Senior Manager,35-44,EMEA,Swiss,4,Yes,No,No,6.3,1,No,No,No
+EMP1554,Male,Legal,5,Senior Manager,35-44,Asia Pacific,German,4,No,No,No,3.1,1,No,No,No
+EMP1555,Female,Finance,5,Senior Manager,35-44,Asia Pacific,Other,5,No,Yes,No,3.0,2,No,No,No
+EMP1556,Female,HR,5,Senior Manager,35-44,Americas,German,5,No,No,No,7.9,3,No,Yes,No
+EMP1557,Female,Marketing,5,Senior Manager,45-54,Americas,German,3,No,No,No,2.8,3,Yes,No,No
+EMP1558,Female,Legal,5,Senior Manager,25-34,Americas,German,4,No,Yes,No,6.7,3,No,No,No
+EMP1559,Female,HR,5,Senior Manager,25-34,Asia Pacific,German,4,No,No,No,2.8,2,Yes,No,No
+EMP1560,Female,Operations,5,Senior Manager,35-44,EMEA,Swiss,2,No,No,No,2.1,2,No,No,No
+EMP1561,Male,Marketing,5,Senior Manager,45-54,Americas,Swiss,5,No,Yes,Yes,5.8,3,No,No,No
+EMP1562,Female,Executive,5,Senior Manager,55+,Asia Pacific,American,5,No,No,No,3.7,5,No,No,Yes
+EMP1563,Female,HR,5,Senior Manager,25-34,EMEA,Swiss,4,No,No,Yes,7.9,5,No,No,No
+EMP1564,Female,IT,5,Senior Manager,35-44,Switzerland,Swiss,4,No,No,No,4.4,3,Yes,Yes,No
+EMP1565,Male,HR,5,Senior Manager,55+,EMEA,Other,5,Yes,No,No,5.5,4,No,Yes,No
+EMP1566,Female,HR,5,Senior Manager,25-34,EMEA,French,4,No,No,No,2.6,5,No,No,No
+EMP1567,Female,Sales,5,Senior Manager,45-54,Switzerland,Indian,4,No,No,No,3.7,3,No,No,No
+EMP1568,Male,IT,5,Senior Manager,25-34,Switzerland,German,5,No,No,No,1.8,3,No,No,No
+EMP1569,Male,Operations,5,Senior Manager,16-24,Switzerland,Swiss,3,No,No,No,2.9,4,No,No,No
+EMP1570,Male,Marketing,5,Senior Manager,35-44,EMEA,British,5,No,No,No,5.3,3,No,No,Yes
+EMP1571,Male,HR,5,Senior Manager,55+,Asia Pacific,American,2,No,No,No,1.9,4,No,No,No
+EMP1572,Female,Sales,5,Senior Manager,25-34,Switzerland,Swiss,2,No,Yes,Yes,6.7,4,No,No,No
+EMP1573,Female,Marketing,5,Senior Manager,35-44,Asia Pacific,Swiss,3,Yes,No,No,2.8,3,No,No,No
+EMP1574,Male,Sales,5,Senior Manager,55+,EMEA,Swiss,4,Yes,Yes,No,5.2,3,No,No,No
+EMP1575,Male,Operations,5,Senior Manager,45-54,Switzerland,Other,4,No,Yes,No,1.6,3,No,No,No
+EMP1576,Male,Operations,5,Senior Manager,35-44,EMEA,Other,4,No,No,No,4.5,3,Yes,No,No
+EMP1577,Female,Operations,5,Senior Manager,16-24,Asia Pacific,Other,5,No,No,No,3.2,4,No,No,Yes
+EMP1578,Male,Sales,5,Senior Manager,35-44,Americas,Swiss,2,No,No,No,5.9,3,No,No,No
+EMP1579,Female,Legal,5,Senior Manager,25-34,EMEA,German,5,Yes,No,No,4.8,3,Yes,No,No
+EMP1580,Male,Executive,5,Senior Manager,55+,Switzerland,Swiss,3,No,No,No,4.5,5,No,No,No
+EMP1581,Male,IT,5,Senior Manager,45-54,EMEA,Other,3,Yes,No,No,3.6,4,No,No,No
+EMP1582,Female,HR,5,Senior Manager,45-54,Switzerland,Swiss,3,No,No,No,1.6,2,No,Yes,Yes
+EMP1583,Female,IT,5,Senior Manager,25-34,EMEA,American,3,No,No,No,3.2,3,No,No,No
+EMP1584,Male,HR,5,Senior Manager,25-34,Switzerland,British,2,Yes,No,No,1.5,3,No,No,No
+EMP1585,Female,Legal,5,Senior Manager,25-34,Americas,Swiss,4,Yes,No,No,5.0,2,No,No,No
+EMP1586,Female,Marketing,5,Senior Manager,35-44,EMEA,Indian,5,No,No,No,3.2,3,No,No,No
+EMP1587,Female,Marketing,5,Senior Manager,45-54,Americas,British,3,No,No,No,4.2,4,No,No,Yes
+EMP1588,Female,Executive,5,Senior Manager,35-44,Switzerland,American,4,No,No,No,6.8,4,No,No,No
+EMP1589,Female,Sales,5,Senior Manager,25-34,EMEA,Other,4,No,Yes,No,2.3,3,No,No,No
+EMP1590,Male,Sales,5,Senior Manager,35-44,Asia Pacific,German,1,No,No,No,2.6,4,No,No,No
+EMP1591,Male,Sales,5,Senior Manager,45-54,Asia Pacific,Swiss,4,No,No,Yes,1.3,4,No,No,No
+EMP1592,Male,Operations,5,Senior Manager,16-24,Switzerland,Swiss,2,No,No,No,2.4,4,No,No,Yes
+EMP1593,Male,Sales,5,Senior Manager,35-44,EMEA,Swiss,3,No,No,No,1.7,2,No,No,No
+EMP1594,Male,Finance,5,Senior Manager,16-24,Switzerland,Chinese,3,No,No,No,1.9,4,Yes,No,No
+EMP1595,Male,Marketing,5,Senior Manager,55+,EMEA,American,5,No,No,No,0.8,5,Yes,No,No
+EMP1596,Male,HR,5,Senior Manager,35-44,Asia Pacific,Swiss,5,No,Yes,No,2.4,3,Yes,No,No
+EMP1597,Male,Operations,5,Senior Manager,35-44,Americas,German,3,No,No,Yes,3.7,5,No,No,No
+EMP1598,Male,Operations,5,Senior Manager,35-44,EMEA,Swiss,3,Yes,No,Yes,4.5,3,No,No,No
+EMP1599,Male,Marketing,5,Senior Manager,35-44,Americas,Swiss,4,No,No,No,2.1,4,No,No,No
+EMP1600,Male,Legal,5,Senior Manager,35-44,Switzerland,British,4,No,No,No,4.0,4,No,No,No
+EMP1601,Male,Finance,6,Director,35-44,Asia Pacific,German,5,No,No,No,4.8,3,No,No,No
+EMP1602,Female,Operations,6,Director,35-44,Americas,American,3,Yes,No,No,6.8,2,No,No,No
+EMP1603,Male,Sales,6,Director,55+,Switzerland,Indian,3,No,No,No,2.9,3,No,Yes,No
+EMP1604,Male,Finance,6,Director,25-34,Asia Pacific,Swiss,4,No,No,No,3.6,3,No,No,No
+EMP1605,Female,Operations,6,Director,16-24,Asia Pacific,American,2,No,Yes,No,7.0,4,No,No,No
+EMP1606,Male,Legal,6,Director,25-34,Switzerland,Swiss,5,No,No,No,3.9,4,No,Yes,No
+EMP1607,Female,Legal,6,Director,45-54,EMEA,German,4,No,No,No,1.8,2,No,No,No
+EMP1608,Female,Legal,6,Director,55+,EMEA,German,2,No,Yes,Yes,4.1,2,No,No,No
+EMP1609,Female,Finance,6,Director,35-44,EMEA,British,4,No,No,No,3.7,3,No,No,No
+EMP1610,Female,HR,6,Director,35-44,EMEA,Swiss,3,No,No,No,7.7,4,No,No,Yes
+EMP1611,Male,HR,6,Director,45-54,Americas,British,4,No,Yes,No,2.7,5,No,No,No
+EMP1612,Male,Sales,6,Director,35-44,EMEA,Other,4,No,Yes,No,1.8,3,No,No,No
+EMP1613,Male,Sales,6,Director,25-34,Americas,Swiss,3,No,No,No,3.5,3,No,No,No
+EMP1614,Female,Sales,6,Director,45-54,EMEA,French,5,No,No,No,7.6,3,No,No,No
+EMP1615,Female,Executive,6,Director,45-54,Americas,British,4,No,No,No,5.0,4,No,No,No
+EMP1616,Male,Legal,6,Director,45-54,Americas,Swiss,4,No,No,No,5.4,5,No,No,No
+EMP1617,Male,Operations,6,Director,35-44,Switzerland,Indian,2,No,Yes,No,5.9,2,No,No,Yes
+EMP1618,Female,HR,6,Director,35-44,Switzerland,Swiss,3,No,No,No,6.5,4,No,Yes,No
+EMP1619,Male,IT,6,Director,25-34,Switzerland,French,4,Yes,No,No,4.2,4,No,No,No
+EMP1620,Male,Operations,6,Director,35-44,Americas,Chinese,4,Yes,No,No,4.7,2,No,No,No
+EMP1621,Female,HR,6,Director,35-44,EMEA,French,2,No,No,No,6.2,1,No,No,No
+EMP1622,Female,IT,6,Director,25-34,Americas,French,4,No,No,No,1.6,2,No,No,No
+EMP1623,Female,Legal,6,Director,25-34,Switzerland,British,4,No,Yes,No,2.5,3,No,No,No
+EMP1624,Male,Marketing,6,Director,55+,Americas,American,2,No,No,No,0.8,5,No,Yes,No
+EMP1625,Male,HR,6,Director,16-24,EMEA,French,3,No,No,No,5.0,2,No,No,No
+EMP1626,Male,Sales,6,Director,25-34,Switzerland,Indian,4,No,No,No,4.6,2,No,No,No
+EMP1627,Male,Executive,6,Director,35-44,Switzerland,Indian,5,No,No,No,0.6,4,No,No,No
+EMP1628,Female,Legal,6,Director,25-34,Switzerland,Swiss,3,No,No,No,6.3,4,No,Yes,Yes
+EMP1629,Female,Legal,6,Director,35-44,Americas,French,4,No,No,No,4.2,2,No,No,No
+EMP1630,Female,HR,6,Director,35-44,EMEA,British,4,No,Yes,No,7.7,4,No,Yes,No
+EMP1631,Female,Marketing,6,Director,45-54,Americas,German,3,No,Yes,No,7.6,4,No,No,No
+EMP1632,Male,Operations,6,Director,25-34,Asia Pacific,Swiss,4,No,No,No,5.9,4,No,No,No
+EMP1633,Female,IT,6,Director,45-54,Asia Pacific,Swiss,4,No,No,No,4.7,3,No,No,Yes
+EMP1634,Female,Sales,6,Director,55+,Switzerland,German,3,No,No,No,2.8,4,Yes,No,No
+EMP1635,Male,HR,6,Director,45-54,Asia Pacific,German,4,No,No,No,5.2,4,No,Yes,No
+EMP1636,Female,Executive,6,Director,16-24,EMEA,Swiss,4,Yes,No,Yes,7.2,1,No,No,No
+EMP1637,Female,IT,6,Director,35-44,Switzerland,Other,3,No,No,No,5.2,4,No,No,Yes
+EMP1638,Female,HR,6,Director,25-34,Switzerland,Indian,3,No,No,No,3.2,3,Yes,Yes,No
+EMP1639,Male,IT,6,Director,35-44,EMEA,French,5,No,No,No,2.9,3,Yes,No,No
+EMP1640,Female,Finance,6,Director,45-54,Switzerland,German,5,No,No,No,6.1,3,No,Yes,No
+EMP1641,Male,HR,7,VP,35-44,EMEA,British,3,No,Yes,No,0.9,4,No,No,No
+EMP1642,Male,Marketing,7,VP,45-54,Switzerland,Other,3,No,No,No,0.6,5,No,No,No
+EMP1643,Female,Marketing,7,VP,45-54,Switzerland,French,4,No,No,No,4.5,3,No,Yes,No
+EMP1644,Female,Legal,7,VP,45-54,EMEA,German,4,No,No,Yes,3.3,4,No,No,No
+EMP1645,Male,Executive,7,VP,35-44,Americas,German,4,No,No,No,3.8,3,No,No,No
+EMP1646,Male,Operations,7,VP,45-54,Switzerland,German,3,No,No,No,5.6,2,Yes,Yes,No
+EMP1647,Female,Operations,7,VP,25-34,EMEA,Other,3,No,No,No,5.8,3,No,No,No
+EMP1648,Female,Operations,7,VP,45-54,Switzerland,Indian,3,No,Yes,No,2.6,3,No,No,Yes
+EMP1649,Male,Legal,7,VP,45-54,Americas,Indian,2,No,No,No,4.0,5,No,No,No
+EMP1650,Male,Legal,7,VP,35-44,Switzerland,French,3,No,No,No,1.5,2,No,No,No
+EMP1651,Male,HR,7,VP,55+,Switzerland,Swiss,4,No,No,No,5.3,4,No,No,No
+EMP1652,Female,HR,7,VP,35-44,Switzerland,Chinese,5,No,No,No,3.3,5,No,No,No
+EMP1653,Female,IT,7,VP,55+,Asia Pacific,Swiss,4,No,No,No,4.2,3,No,Yes,No
+EMP1654,Male,Sales,7,VP,45-54,Americas,German,4,Yes,No,Yes,2.9,3,No,No,No
+EMP1655,Male,Operations,7,VP,35-44,Switzerland,Swiss,5,No,Yes,No,4.8,4,No,Yes,No
+EMP1656,Male,Executive,7,VP,35-44,Americas,British,4,No,No,No,2.8,3,No,Yes,Yes
+EMP1657,Male,Operations,7,VP,25-34,EMEA,Swiss,4,Yes,No,No,2.2,4,Yes,No,No
+EMP1658,Male,Legal,7,VP,35-44,EMEA,German,5,No,Yes,No,3.7,4,No,No,No
+EMP1659,Male,Operations,7,VP,25-34,Americas,American,4,No,No,No,1.5,1,No,No,Yes
+EMP1660,Male,Operations,7,VP,25-34,Switzerland,British,4,No,No,No,2.2,3,No,No,No
+EMP1661,Male,HR,7,VP,35-44,Switzerland,German,4,Yes,No,No,3.0,3,No,Yes,No
+EMP1662,Male,IT,7,VP,45-54,Switzerland,French,5,No,No,Yes,2.9,4,No,No,Yes
+EMP1663,Female,HR,7,VP,25-34,Asia Pacific,French,2,No,No,Yes,0.7,5,No,No,No
+EMP1664,Male,Legal,7,VP,35-44,Switzerland,Swiss,3,No,No,No,1.5,5,No,No,No
+EMP1665,Female,Legal,7,VP,35-44,Switzerland,Indian,4,No,No,No,5.2,4,No,No,No
+EMP1666,Female,Operations,8,Executive,25-34,EMEA,Swiss,5,No,No,No,3.2,4,No,No,No
+EMP1667,Male,HR,8,Executive,45-54,EMEA,Other,2,No,No,No,0.9,4,No,No,No
+EMP1668,Male,Marketing,8,Executive,35-44,Switzerland,Swiss,3,No,No,No,2.7,2,No,No,No
+EMP1669,Male,IT,8,Executive,25-34,Switzerland,German,4,No,No,No,0.9,3,No,No,No
+EMP1670,Male,Operations,8,Executive,25-34,Switzerland,Indian,5,No,No,No,3.3,4,No,No,No
+EMP1671,Male,Legal,8,Executive,25-34,Switzerland,German,4,No,No,No,3.1,4,Yes,No,No
+EMP1672,Male,HR,8,Executive,35-44,EMEA,German,3,No,No,No,5.4,5,No,No,Yes
+EMP1673,Female,Finance,8,Executive,45-54,Americas,Other,2,No,No,Yes,4.2,4,No,No,No
+EMP1674,Male,Operations,8,Executive,35-44,Switzerland,German,4,No,No,No,5.9,4,No,No,No
+EMP1675,Male,Executive,8,Executive,55+,Switzerland,Swiss,3,No,No,No,1.4,3,No,No,No
+EMP1676,Male,Finance,8,Executive,35-44,Asia Pacific,Swiss,5,No,No,No,2.6,4,No,No,No
+EMP1677,Female,Sales,8,Executive,35-44,Americas,French,3,No,No,Yes,0.9,2,No,No,No
