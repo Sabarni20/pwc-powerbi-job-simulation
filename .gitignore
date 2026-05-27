@@ -1,5 +1,4 @@
 # Power BI files (add your .pbix files manually after building)
-*.pbix
 
 # Python
 __pycache__/
