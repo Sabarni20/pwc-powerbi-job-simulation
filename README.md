@@ -36,7 +36,7 @@ pwc-powerbi-simulation/
 ## 📋 Tasks Overview
 
 ### Task 1 — Call Centre Trends 📞
-
+![Call Centre Trends Dashboard](images/01_call_centre_trends_dashboard.jpg)
 **Business Question:** What are the key operational trends and performance issues within the PhoneNow Call Centre?
 
 **Dataset:** `call_center.csv` — 5,000 call records across January–March 2021
@@ -60,6 +60,8 @@ pwc-powerbi-simulation/
 ---
 
 ### Task 2 — Customer Retention (Churn) Analysis 🔄
+![Customer Churn Dashboard](images/02_customer_churn_dashboard.jpg)
+![Customer Risk Dashboard](images/03_customer_risk_dashboard.jpg)
 
 **Business Question:** Which customer profiles are at the highest risk of churning, and what proactive steps can be taken?
 
@@ -84,7 +86,7 @@ pwc-powerbi-simulation/
 ---
 
 ### Task 3 — Diversity & Inclusion 🏢
-
+![Diversity and Inclusion Dashboard](images/04_diversity_inclusion_dashboard.jpg)
 **Business Question:** What does the HR data reveal regarding gender balance, promotion velocity, and performance ratings across executive levels?
 
 **Dataset:** `diversity_inclusion.csv` — 1,394 employee records across FY20 and FY21
