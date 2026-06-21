@@ -36,7 +36,7 @@ pwc-powerbi-simulation/
 ## 📋 Tasks Overview
 
 ### Task 1 — Call Centre Trends 📞
-![Call Centre Trends Dashboard](images/https://github.com/Sabarni20/pwc-powerbi-job-simulation/blob/master/01_call_centre_trends_dashboard_edited.jpg)
+![Call Centre Trends Dashboard](images/01_call_centre_trends_dashboard_edited.jpg)
 **Business Question:** What are the key operational trends and performance issues within the PhoneNow Call Centre?
 
 **Dataset:** `call_center.csv` — 5,000 call records across January–March 2021
