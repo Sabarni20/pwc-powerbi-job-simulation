@@ -61,8 +61,10 @@ pwc-powerbi-simulation/
 ---
 
 ### Task 2 — Customer Retention (Churn) Analysis 🔄
-![Customer Churn Dashboard](images/02_customer_churn_dashboard.jpg)
-![Customer Risk Dashboard](images/03_customer_risk_dashboard.jpg)
+
+<img width="1020" height="545" alt="02_customer_churn_dashboard" src="https://github.com/user-attachments/assets/a23f2aaf-427d-415a-ba29-eb0366c0f382" />
+
+<img width="1020" height="545" alt="02_customer_churn_dashboard" src="https://github.com/user-attachments/assets/0f6aa47f-5b76-4c3b-bd20-bcedc17b166e" />
 
 **Business Question:** Which customer profiles are at the highest risk of churning, and what proactive steps can be taken?
 
@@ -87,7 +89,9 @@ pwc-powerbi-simulation/
 ---
 
 ### Task 3 — Diversity & Inclusion 🏢
-![Diversity and Inclusion Dashboard](images/04_diversity_inclusion_dashboard.jpg)
+
+<img width="1020" height="510" alt="04_diversity_inclusion_dashboard" src="https://github.com/user-attachments/assets/375ac846-929d-4893-9c47-e88fbcfbe660" />
+
 **Business Question:** What does the HR data reveal regarding gender balance, promotion velocity, and performance ratings across executive levels?
 
 **Dataset:** `diversity_inclusion.csv` — 1,394 employee records across FY20 and FY21
