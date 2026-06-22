@@ -64,7 +64,7 @@ pwc-powerbi-simulation/
 
 <img width="1020" height="545" alt="02_customer_churn_dashboard" src="https://github.com/user-attachments/assets/a23f2aaf-427d-415a-ba29-eb0366c0f382" />
 
-<img width="1020" height="545" alt="02_customer_churn_dashboard" src="https://github.com/user-attachments/assets/0f6aa47f-5b76-4c3b-bd20-bcedc17b166e" />
+<img width="1020" height="550" alt="03_customer_risk_dashboard" src="https://github.com/user-attachments/assets/2168a0f2-90c7-48cf-96b1-ee3f825f6a11" />
 
 **Business Question:** Which customer profiles are at the highest risk of churning, and what proactive steps can be taken?
 
